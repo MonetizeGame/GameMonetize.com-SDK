@@ -2,13 +2,13 @@
 <img src="https://monetizegame.com/images/html5-logo.png" width="100" alt="" data-canonical-src="https://monetizegame.com/images/html5-logo.png">
 
 # Monetizegame.com-SDK
-This repository contains the Monetizegame.com SDK for HTML5 games. This allows you to display advertisements in the games published within the Monetizegame.com network. https://MonetizeGame.com
+This repository contains the MonetizeGame.com SDK for HTML5 games. This allows you to display advertisements in the games published within the MonetizeGame.com network. https://MonetizeGame.com
 
 
 # STEP 1:
 # HTML5 SDK - Implementation
 <p>Add following rows into your index.html file (head section or body section). Fill gameId and use SDK events when you need it (mute audio, pause game and after that resume game logic).</p>
-<p>This code will initialize Monetizegame.com HTML5 SDK</p>
+<p>This code will initialize MonetizeGame.com HTML5 SDK</p>
 
 <pre><code><script type = "text/javascript" >
    window.SDK_OPTIONS = {
@@ -37,7 +37,7 @@ This repository contains the Monetizegame.com SDK for HTML5 games. This allows y
 </script></code></pre>
 
 # MANDATORY SETTINGS:
-1. Make sure to add your game hash (GameId), which you can retrieve from your Monetizegame.com control panel.
+1. Make sure to add your game hash (GameId), which you can retrieve from your MonetizeGame.com control panel.
 2. Invoke a method to pause AND mute your game within the SDK_GAME_PAUSE event. Will be called every time a video advertisement is ready to play. It is important that the game is muted, as background audio through video advertisements is forbidden.
 3. Invoke a method to resume your game within the SDK_GAME_START event. Will be called every time a video advertisement is done playing.
 
