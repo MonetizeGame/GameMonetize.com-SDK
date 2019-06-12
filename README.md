@@ -1,7 +1,7 @@
 <img src="https://avatars3.githubusercontent.com/u/51751524?s=400" width="100" alt="" data-canonical-src="https://avatars2.githubusercontent.com/u/48458546?s=460&v=4g">  &nbsp;&nbsp;
 <img src="https://monetizegame.com/images/html5-logo.png" width="100" alt="" data-canonical-src="https://monetizegame.com/images/html5-logo.png">
 
-# Monetizegame.com-SDK
+# MonetizeGame.com-SDK
 This repository contains the MonetizeGame.com SDK for HTML5 games. This allows you to display advertisements in the games published within the MonetizeGame.com network. https://MonetizeGame.com
 
 
