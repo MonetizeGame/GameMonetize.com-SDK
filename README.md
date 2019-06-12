@@ -2,7 +2,7 @@
 <img src="https://monetizegame.com/images/html5-logo.png" width="100" alt="" data-canonical-src="https://monetizegame.com/images/html5-logo.png">
 
 # Monetizegame.com-SDK
-This repository contains the Monetizegame.com SDK for HTML5 games. This allows you to display advertisements in the games published within the Monetizegame.com network. https://Monetizegame.com
+This repository contains the Monetizegame.com SDK for HTML5 games. This allows you to display advertisements in the games published within the Monetizegame.com network. https://MonetizeGame.com
 
 
 # STEP 1:
