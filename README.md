@@ -2,9 +2,8 @@
 <img src="https://gamemonetize.com/images/html5-logo.png" width="100" alt="" data-canonical-src="https://gamemonetize.com/images/html5-logo.png">
 
 # GameMonetize.com-SDK
-This repository contains the GameMonetize.com SDK for HTML5 games. This allows you to display advertisements in the games published within the GameMonetize.com network. https://GameMonetize.com
-We offer also SDK for all HTML5 Gaming Frameworks: Unity, Construct 3 (v2), Construct 2 and HTML5
-All our plugins are always up-to date with latest updates for your HTML5 games.
+<p>This repository contains the GameMonetize.com SDK for HTML5 games. This allows you to display advertisements in the games published within the GameMonetize.com network. https://GameMonetize.com</p>
+<p>We offer also SDK for all HTML5 Gaming Frameworks: Unity, Construct 3 (v2), Construct 2, Cocos2D and HTML5</p>
 
 # STEP 1:
 # HTML5 SDK - Implementation
